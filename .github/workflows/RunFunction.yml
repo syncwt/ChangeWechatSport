@@ -1,4 +1,4 @@
-name: 修改微信步数
+name: WeRun Editor
 
 on:
   workflow_dispatch:
