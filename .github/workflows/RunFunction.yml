@@ -3,7 +3,7 @@ name: WeRun Editor
 on:
   workflow_dispatch:
   schedule:
-    - cron: '06 15 * * *'
+    - cron: '36 14 * * *'
 
 jobs: 
   ChangBuShu: 
